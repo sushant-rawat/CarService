@@ -27,20 +27,33 @@ Welcome to the Car Service Station
 Available Car Types:
 
 Hatchback
+
 Sedan
+
 SUV
+
 Select the Car Type (1-3): 2
+
 Available Services:
+
 BS01 - Basic Servicing
+
 EF01 - Engine Fixing
+
 CF01 - Clutch Fixing
+
 BF01 - Brake Fixing
+
 GF01 - Gear Fixing
 
 Enter the Service Code (or '0' to finish selecting services): BS01
+
 Enter the Service Code (or '0' to finish selecting services): EF01
+
 Enter the Service Code (or '0' to finish selecting services): 0
 
 Type of Car: Sedan
+
 Total Bill: ₹12000
+
 Complimentary cleaning provided.
